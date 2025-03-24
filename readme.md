@@ -1,8 +1,15 @@
-Here's a concise README for your **Introduction to TorchIO** tutorial on GitHub:
-
 ---
 
 # Introduction to TorchIO
+
+<a target="_blank" href="https://colab.research.google.com/github/toufiqmusah/Introduction-to-TorchIO/blob/main/Introduction%20to%20TorchIO%20for%203D%20MRI%20Processing%20Preprocessing%20Transforms%20-%20Part%201.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+![MRI Sample](images/mri_sample_view.png.jpg)
+
+Make sure to adjust the path accordingly based on the location of your image file.
+
 
 This repository contains a tutorial on using **TorchIO** for medical image processing.
 
