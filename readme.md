@@ -6,7 +6,7 @@
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-![MRI Sample](images/mri_sample_view.png.jpg)
+![MRI Sample](images/mri_sample_view.png)
 
 Make sure to adjust the path accordingly based on the location of your image file.
 
