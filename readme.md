@@ -20,7 +20,7 @@ This repository contains a tutorial on using **TorchIO** for medical image proce
 
 ### Dataset
 
-We use **single-channel T2-FLAIR NIfTI** samples from the **ASNR-RSNA-MICCAI Africa Dataset of Brain MRI with tumors**.
+We use **NIfTI MRI and Segmentation Label** samples from the **ASNR-RSNA-MICCAI Africa Dataset of Brain MRI with tumors**.
 
 
 ### Running the Tutorial
